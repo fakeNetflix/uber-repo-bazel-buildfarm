@@ -1,0 +1,6 @@
+{
+  "repository.callsign" : "BF",
+  "project.name" : "buildfarm",
+  "phabricator.uri" : "https://code.int.uberatc.com/"
+}
+
